@@ -13,5 +13,6 @@ public class SortArrays {
             }
         }
         System.out.println(Arrays.toString(a));
+        
     }
 }
